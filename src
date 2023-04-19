@@ -1,5 +1,3 @@
-
-
 def hamilton_Adj(v):
     O[v] = True
     global AdjArr
